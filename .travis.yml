@@ -4,8 +4,8 @@ arch:
    - amd64
 
 otp_release:
-   - 22.0
-   - 23.0
+   - 25.0
+   - 24.0
 
 sudo: false
 
